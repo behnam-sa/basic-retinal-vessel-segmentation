@@ -8,4 +8,4 @@ Accuracy = 0.94, Sensitivity = 0.73, Specificity = 0.97
 
 A sample output is shown below. The leftmost image is the input from the DRIVE database, the middle image is the algorithm output, and the rightmost image is a manual segmentation (ground truth)
 
-![Sample output](VE run sample.png)
+![Sample output](VE-run-sample.png)
